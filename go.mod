@@ -1,4 +1,4 @@
-module go-commons
+module github.com/Aashirwad-Chauhan/go-commons
 
 go 1.22.5
 
