@@ -1,4 +1,4 @@
-package usageDAL
+package usageDal
 
 import (
 	"log"
