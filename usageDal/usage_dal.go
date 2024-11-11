@@ -1,8 +1,9 @@
 package usageDAL
 
 import (
-	"go-commons/config"
 	"log"
+
+	"github.com/Aashirwad-Chauhan/go-commons/config"
 )
 
 func GetWebBuffer() uint32 {
